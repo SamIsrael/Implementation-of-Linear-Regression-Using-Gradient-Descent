@@ -127,9 +127,6 @@ print("For the population of 70,000, the model predicts a profit of $",str(round
 ![image](./outputImages/computedCostValue.png)
 ### h(x) value
 ![image](./outputImages/hxValue.png)
-<br>
-<br>
-<br>
 ### Cost function using gradient descent graph
 ![image](./outputImages/costFunctionUsingGradientDescent.png)
 ### Profit prediction graph 
